@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://asim-sidd02.github.io/](https://asimsidd.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://asimsidd.vercel.app/](https://asimsidd.vercel.app/)
 
 - 💬 Ask me about **Java, Python, MySQL, HTML, CSS, Flutter, React**
 
