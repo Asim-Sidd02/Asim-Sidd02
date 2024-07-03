@@ -17,9 +17,9 @@
 - ⚡ Fun fact **I am good at cracking jokes.**
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://github.com/Asim-Sidd02/ReadmeFiles/blob/main/Skills_Animation_Dark.gif]">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Asim-Sidd02/ReadmeFiles/blob/main/Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Asim-Sidd02/ReadmeFiles/blob/main/Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="https://github.com/Asim-Sidd02/ReadmeFiles/blob/main/Skills_Animation_White.gif">
 </picture>
 <br />
 
@@ -112,13 +112,7 @@
 
 ---
 
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=Confidence%20is%20consistency%20of%20thinking%20about%20what%20is%20possible%20and%20how%20to%20make%20it%20possible.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
@@ -129,28 +123,34 @@
 <div align="center">
   
 <a href="mailto:asimsiddiqui8181@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="asimsiddiqui8181@gmail.com" style="margin-bottom: 5px;" />
+<img src="https://github.com/Asim-Sidd02/ReadmeFiles/blob/main/gmail.png" width=50 height=50 alt="asimsiddiqui8181@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 
 
 <a href="https://www.instagram.com/asim_sidd_" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="asim_sidd_" style="margin-bottom: 5px;" />
+<img src="https://github.com/Asim-Sidd02/ReadmeFiles/blob/main/instagram.png" width=50 height=50 alt="asim_sidd_" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/Asim-Sidd02" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Asim-Sidd02" style="margin-bottom: 5px;" />
+<img src="https://github.com/Asim-Sidd02/ReadmeFiles/blob/main/github.png" width=50 height=50 alt="Asim-Sidd02" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/asim-siddiqui-a71731229/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+<img src="https://github.com/Asim-Sidd02/ReadmeFiles/blob/main/linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
 
 </div>
 <br/>
 
-
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=Confidence%20is%20consistency%20of%20thinking%20about%20what%20is%20possible%20and%20how%20to%20make%20it%20possible.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
