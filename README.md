@@ -12,6 +12,31 @@
 - 📫 How to reach me **asimsiddiqui8181@gmail.com**
 
 - ⚡ Fun fact **I am good at cracking jokes.**
+- <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[./Skills_Animation_Dark.gif](https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif)">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+</ul>
+  
+<h3 align="left">Latest Blog Posts</h3>
+<ul align="left">
+  <li><a href="https://dev.to/dev_kiran/21-vs-code-extensions-to-boost-your-productivity-1fil">21 VS Code Extensions To Boost Your Productivity</a></li>
+  <li><a href="https://dev.to/dev_kiran/html-tags-you-might-not-know-about-3gk7">HTML Tags You Might Not Know About</a></li>
+  <li><a href="https://dev.to/dev_kiran/meet-codiumate-your-coding-agent-47ie">Meet Codiumate - Your coding Agent🤖</a></li>
+</ul>
+<br />
+<br />
+<br />
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
