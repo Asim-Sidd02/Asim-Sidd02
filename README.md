@@ -1,3 +1,6 @@
+![Asim Sidd Banner Image](https://github.com/Asim-Sidd02/ReadmeFiles/blob/main/github.gif)
+
+
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Asim Siddiqui</h1>
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
