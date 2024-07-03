@@ -15,26 +15,31 @@
 - 📫 How to reach me **asimsiddiqui8181@gmail.com**
 
 - ⚡ Fun fact **I am good at cracking jokes.**
-- <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="[https://github.com/Asim-Sidd02/ReadmeFiles/blob/main/Skills_Animation_Dark.gif]">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 <br />
 
-<h3 align="left">Current Learning</h3>
+<h3 align="left">Front End Development</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Flutter</li>
+  <li>React</li>
+  <li>HTML/CSS</li>
+  <li>Bootstarp</li>
+  <li>Tailwind CSS</li>
 </ul>
   
-<h3 align="left">Latest Blog Posts</h3>
+<h3 align="left">Backend Development</h3>
 <ul align="left">
-  <li><a href="https://dev.to/dev_kiran/21-vs-code-extensions-to-boost-your-productivity-1fil">21 VS Code Extensions To Boost Your Productivity</a></li>
-  <li><a href="https://dev.to/dev_kiran/html-tags-you-might-not-know-about-3gk7">HTML Tags You Might Not Know About</a></li>
-  <li><a href="https://dev.to/dev_kiran/meet-codiumate-your-coding-agent-47ie">Meet Codiumate - Your coding Agent🤖</a></li>
+  <li>JavaScript</li>
+  <li>Python</li>
+  <li>Java</li>
+  <li>php</li>
+  <li>MySQL</li>
+  <li>Firebase</li>
 </ul>
 <br />
 <br />
@@ -48,9 +53,9 @@
 <p align="center">
   <a href="https://github.com/Asim-Sidd02">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Kiran1689&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Asim-Sidd02&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Asim-Sidd02&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Asim-Sidd02&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
   </a>
 </p>
@@ -64,7 +69,7 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/Asim-Sidd02">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=Asim-Sidd02&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
@@ -83,7 +88,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Asim-Sidd02/RiskPredectionSystem">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Asim-Sidd02&repo=RiskPredectionSystem&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Asim-Sidd02&repo=RiskPredectionSystem&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="RiskPredectionSystem" />
         </a>
       </p>
     </td>
@@ -91,7 +96,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/Asim-Sidd02">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Asim-Sidd02&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -109,6 +114,47 @@
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=Confidence%20is%20consistency%20of%20thinking%20about%20what%20is%20possible%20and%20how%20to%20make%20it%20possible.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
+
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:asimsiddiqui8181@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="asimsiddiqui8181@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+
+
+<a href="https://www.instagram.com/asim_sidd_" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="asim_sidd_" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/Asim-Sidd02" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Asim-Sidd02" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/asim-siddiqui-a71731229/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+
+</div>
+<br/>
+
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
 
 
