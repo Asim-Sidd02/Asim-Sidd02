@@ -90,8 +90,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Asim-Sidd02/RiskPredectionSystem">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Asim-Sidd02&repo=RiskPredectionSystem&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="RiskPredectionSystem" />
+        <a href="https://github.com/Asim-Sidd02/Spendster">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Asim-Sidd02&repo=Spendster&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Spendster" />
         </a>
       </p>
     </td>
