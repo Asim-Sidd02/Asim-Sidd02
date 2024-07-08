@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://asimsidd.vercel.app/](https://asimsidd.vercel.app/)
+- 👨‍💻 All of my projects are available at [Asim Sidd](https://asimsidd.vercel.app/)
 
 - 💬 Ask me about **Java, Python, MySQL, HTML, CSS, Flutter, React**
 
