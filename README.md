@@ -33,6 +33,7 @@
   <li>HTML/CSS</li>
   <li>Bootstarp</li>
   <li>Tailwind CSS</li>
+  <li>Dart</li>
 </ul>
   
 <h3 align="left">Backend Development</h3>
