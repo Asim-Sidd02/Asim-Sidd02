@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **App Development**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **App Development**
 
 - 👨‍💻 All of my projects are available at [Asim Sidd](https://asimsidd.vercel.app/)
 
